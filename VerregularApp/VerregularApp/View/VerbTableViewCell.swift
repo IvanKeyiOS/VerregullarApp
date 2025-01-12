@@ -24,6 +24,7 @@ final class VerbTableViewCell: UITableViewCell {
     override func prepareForReuse() {
         super.prepareForReuse()
         
+        //MARK: - когда все ячейки не вмещаются на экран
         print("prepareForReuse")
         infinitiveLabel.text = ""
     }

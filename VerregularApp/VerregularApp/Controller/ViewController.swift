@@ -11,7 +11,6 @@ class ViewController: UIViewController {
     //MARK: - Properties
     private var dataSource = IrregularVerbs()
     
-    
     //MARK: - IBOutlets
     @IBOutlet weak var tableView: UITableView!
     
@@ -24,12 +23,11 @@ class ViewController: UIViewController {
         let nib = UINib(nibName: "VerbTableViewCell", bundle: nil)
         tableView.register(nib, forCellReuseIdentifier: "VerbTableViewCell")
     }
-    
-    //MARK: - Methods
 }
 
     //MARK: - UITableViewDataSource
 extension ViewController: UITableViewDataSource {
+    //MARK: - Methods
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         dataSource.verbs.count
     }
