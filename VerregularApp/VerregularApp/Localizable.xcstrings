@@ -1,6 +1,39 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "be" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "быть"
+          }
+        }
+      }
+    },
+    "become" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "становиться"
+          }
+        }
+      }
+    },
+    "begin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "начинать"
+          }
+        }
+      }
+    },
     "blow" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -12,6 +45,28 @@
         }
       }
     },
+    "break" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ломать"
+          }
+        }
+      }
+    },
+    "choose" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "выбирать"
+          }
+        }
+      }
+    },
     "draw" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -19,6 +74,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "рисовать\n"
+          }
+        }
+      }
+    },
+    "drink" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "пить"
           }
         }
       }
@@ -41,6 +107,72 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "падать"
+          }
+        }
+      }
+    },
+    "fly" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "летать"
+          }
+        }
+      }
+    },
+    "give" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "дать"
+          }
+        }
+      }
+    },
+    "go" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "идти"
+          }
+        }
+      }
+    },
+    "grow" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "расти"
+          }
+        }
+      }
+    },
+    "have" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "иметь"
+          }
+        }
+      }
+    },
+    "know" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "знать"
           }
         }
       }
